@@ -35,5 +35,5 @@ int main(){
      int n;
      cout<<"enter number : ";
      cin>>n;
-    cout<<"Final ans is : "<<smallestValue(n)<<endl;
+    cout<<"Final ans is : "<<smallestValue(n)<<endl; 
 }
